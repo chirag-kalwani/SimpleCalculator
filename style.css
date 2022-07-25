@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3rem;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 500px;
+}
+
+.container table {
+    margin: auto;
+}
+
+#screen {
+    margin: 15px auto;
+    width: 350px;
+    font-size: 1.8rem;
+    display: block;
+    border-radius: 10px;
+}
+
+.container table button {
+    width: 83px;
+    height: 46px;
+    margin: 2px;
+    font-size: 2rem;
+    border-radius: 10px;
+}
