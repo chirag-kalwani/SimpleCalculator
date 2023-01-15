@@ -19,6 +19,9 @@ Its useful for simple calculations.
 * css
 * javascript
 
+## Screenshot
+![calcscreen](https://github.com/chirag-kalwani/SimpleCalculator/blob/master/Calculator.png)
+
 ## How to Run?
 
 To run my application you simply need to clone the project and run the html file.
